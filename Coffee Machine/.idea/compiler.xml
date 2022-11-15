@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="17" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="17" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="17" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="17" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="17" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="17" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="17" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="17" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="17" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Getters_and_setters-Account.main" target="17" />
+      <module name="Coffee_Machine.Topics-Getters_and_setters-Book.main" target="17" />
+      <module name="Coffee_Machine.Topics-Getters_and_setters-Choose_a_pair_of_getter_and_setter.main" target="17" />
+      <module name="Coffee_Machine.Topics-Getters_and_setters-Getting_the_fullname.main" target="17" />
+      <module name="Coffee_Machine.Topics-Getters_and_setters-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-Base_class.main" target="17" />
+      <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Invoke_instance_method.main" target="17" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Simulating_a_clock.main" target="17" />
+      <module name="Coffee_Machine.Topics-Instance_methods-The_Robot_class.main" target="17" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Multiple_constructors-Class_instantiation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multiple_constructors-Phone.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multiple_constructors-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Objects-Find_reference_types.main" target="17" />
+      <module name="Coffee_Machine.Topics-Objects-Null_or_not.main" target="17" />
+      <module name="Coffee_Machine.Topics-Objects-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Package-Creating_instances.main" target="17" />
+      <module name="Coffee_Machine.Topics-Package-Package_features.main" target="17" />
+      <module name="Coffee_Machine.Topics-Package-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-Static_members-Detail_manufacturing.main" target="17" />
+      <module name="Coffee_Machine.Topics-Static_members-Static_fields.main" target="17" />
+      <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-The_keyword_super-Bank_account.main" target="17" />
+      <module name="Coffee_Machine.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main" target="17" />
+      <module name="Coffee_Machine.Topics-The_keyword_super-Theory.main" target="17" />
+      <module name="Coffee_Machine.Topics-The_keyword_super-When_the_keyword_is_used.main" target="17" />
+      <module name="Coffee_Machine.util.main" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Coffee_Machine.Coffee_Machine-task.main" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>
